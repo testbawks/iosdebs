@@ -1,0 +1,7 @@
+Origin: Borknagar
+Label: iosdebs github
+Suite: stable
+Codename: DatinggoesSKRAAA
+Architectures: iphoneos-arm
+Components: main
+Description: ios debs
